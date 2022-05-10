@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Master of Computer Application
 
-- 📫 How to reach me **keerthanadinesha@gmail.com/keerthanadinesha3@gmail.com**
+- 📫 How to reach me **keerthanadinesha@gmail.com,keerthanadinesha3@gmail.com**
 
 - ⚡ Fun fact :- Drawing,Travel and Music🎵 are the reasons to live.
 

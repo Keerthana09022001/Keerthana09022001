@@ -7,7 +7,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning master of computer application
+- 🌱 I’m currently learning Master of Computer Application
 
 - 📫 How to reach me **keerthanadinesha@gmail.com**
 
@@ -73,11 +73,6 @@
       height="40" /> </a> </p>
 
 <br>
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Keerthanadinesh&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
 
 <br>
 

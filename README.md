@@ -6,7 +6,7 @@
 <br>
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://user-images.githubusercontent.com/73133055/152651686-8a503e45-80e1-4203-81cb-97e00cc1a12d.gif" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning Master of Computer Application
